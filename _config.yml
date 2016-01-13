@@ -1,0 +1,28 @@
+name: scottjallen
+favicon: null
+layout_spectrum: 0.999593039508909
+typography_spectrum: 0.5687935445457697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7166340339463204
+  lightness: 0.1208326502237469
+  saturation: 0.927086591720581
+  rhythmicContrast: 0.5344989488366991
+purpose: []
