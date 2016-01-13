@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[scottjallen]]></title>
+        <description><![CDATA[scottjallen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 23:54:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Explorations in Leadership]]></title>
+            <description><![CDATA[<h1>Explorations in Leadership</h1>]]></description>
+            <link>undefinedexplorations-in-leadership/index.html</link>
+            <guid isPermaLink="false">44a47b20-3401-41f2-98bc-a8d30ca9db6a</guid>
+            <pubDate>Wed, 13 Jan 2016 23:54:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
