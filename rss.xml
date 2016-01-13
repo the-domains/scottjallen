@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[scottjallen]]></title>
         <description><![CDATA[scottjallen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scottjallen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 23:54:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 23:56:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scottjallen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deliberate Practice: What It Is and Why You Need It]]></title>
+            <description><![CDATA[<article><h1>Deliberate Practice: What It Is and Why You Need It</h1><p>How does this apply to leadership development?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b07429448ce42590490a635fb263d85b2f483507.jpg"></article>]]></description>
+            <link>http://expertenough.com/1423/deliberate-practice</link>
+            <guid isPermaLink="false">a2cbedfa-679d-474c-8d04-b2372a22429c</guid>
+            <pubDate>Wed, 13 Jan 2016 23:56:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Explorations in Leadership]]></title>
             <description><![CDATA[<h1>Explorations in Leadership</h1>]]></description>
-            <link>undefinedexplorations-in-leadership/index.html</link>
+            <link>https://thegrid.ai/scottjallen/explorations-in-leadership/index.html</link>
             <guid isPermaLink="false">44a47b20-3401-41f2-98bc-a8d30ca9db6a</guid>
             <pubDate>Wed, 13 Jan 2016 23:54:01 GMT</pubDate>
         </item>
