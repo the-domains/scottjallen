@@ -1,7 +1,8 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://hbr.org/2015/10/how-an-accounting-firm-convinced-its-employees-they-could-change-the-world?utm_campaign=HBR&utm_source=facebook&utm_medium=social'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - initiative
   - bricklayers
 description: "It's a fabled story about a janitor's exchange with President Kennedy during the early days of NASA: \"What do you do?\" the president supposedly asked the man with a broom during a visit to Cape Canaveral. \"Well, Mr. President, I'm helping to put a man on the moon.\""
-datePublished: '2016-01-14T03:41:43.779Z'
-dateModified: '2016-01-14T03:41:36.882Z'
+datePublished: '2016-01-14T13:06:08.704Z'
+dateModified: '2016-01-14T13:06:05.019Z'
 author: []
 related: []
 app_links: []
@@ -30,7 +31,6 @@ publisher:
   domain: hbr.org
   url: 'https://hbr.org'
   favicon: 'https://hbr.org/resources/images/favicon.ico'
-url: how-an-accounting-firm-convinced-its-employees-they-could-ch/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
