@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - initiative
   - bricklayers
 description: "It's a fabled story about a janitor's exchange with President Kennedy during the early days of NASA: \"What do you do?\" the president supposedly asked the man with a broom during a visit to Cape Canaveral. \"Well, Mr. President, I'm helping to put a man on the moon.\""
-datePublished: '2016-01-14T13:15:19.992Z'
-dateModified: '2016-01-14T13:15:12.307Z'
+datePublished: '2016-01-14T15:04:18.027Z'
+dateModified: '2016-01-14T15:04:12.380Z'
 author: []
 related: []
 app_links: []
