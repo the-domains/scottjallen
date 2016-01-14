@@ -17,8 +17,8 @@ keywords:
   - mathematics
   - anger
 description: "In the world of relationships, the most important numbers to learn are: five to one. That is the ratio of positive interactions to negative ones that predicts whether a marriage will last or become one of the sad statistics of divorce. It isn't that you can't argue with your spouse."
-datePublished: '2016-01-13T23:58:25.366Z'
-dateModified: '2016-01-13T23:47:39.844Z'
+datePublished: '2016-01-14T00:03:54.601Z'
+dateModified: '2016-01-14T00:00:20.387Z'
 author: []
 related:
   - score: 0.5789091587
@@ -30,18 +30,16 @@ related:
     thumbnail_width: 698
 app_links: []
 title: Marriage Math
+sourcePath: _posts/2016-01-13-marriage-math.md
+published: true
 authors: []
 publisher:
   name: Psychology Today
   domain: www.psychologytoday.com
   url: 'https://www.psychologytoday.com'
   favicon: 'https://cdn.psychologytoday.com/sites/all/themes/psychologytoday/img/touch-icons/favicon.ico'
-sourcePath: _posts/2016-01-13-marriage-math.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-How does this apply to leadership?
-
 <article style=""><h1>Marriage Math</h1><p>In the world of relationships&amp;comma; the most important numbers to learn are&amp;colon; five to one&amp;period; That is the ratio of positive interactions to negative ones that predicts whether a marriage will last or become one of the sad statistics of divorce&amp;period; It isn't that you can't argue with your spouse&amp;period;</p><img src="https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/article/2004/03/21894-31941.jpg?itok=p0H9EklN" /></article>
