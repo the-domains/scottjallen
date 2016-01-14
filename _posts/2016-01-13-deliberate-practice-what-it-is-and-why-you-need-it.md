@@ -17,8 +17,8 @@ keywords:
   - tasks
   - talent
 description: "To learn any new skill or gain expertise you need to practice, practice, practice. There isn't much debate about that. But here's what you might not know: scientific research shows that the quality of your practice is just as important as the quantity."
-datePublished: '2016-01-14T00:03:32.184Z'
-dateModified: '2016-01-14T00:00:05.560Z'
+datePublished: '2016-01-14T03:44:12.403Z'
+dateModified: '2016-01-14T03:44:08.030Z'
 author:
   - name: Corbett Barr
     url: 'http://expertenough.com/author/corbett'
